@@ -8,3 +8,9 @@ An app that I learn a lot more features in Android development<br>
   <li>Count down timer</li>
   <li>View Binding</li>
 </ul>
+
+<div style="display:flex;">
+  <img src="capture1.gif">
+  <img src="capture2.gif">
+  <img src="capture3.gif">
+</div>
